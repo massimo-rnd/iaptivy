@@ -1,74 +1,89 @@
 <div align="center">
-  <a href="https://github.com/miit0o-dev/iaptivy">
-    <img width="300" src="https://miit0o.dev/wp-content/uploads/2023/12/iaptivy-screen.png">
-  </a>
-  <br>
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/miit0o-dev/iaptivy?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/iaptivy?include_prereleases)
 
-![macOS Version](https://img.shields.io/badge/iOS-15+-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/miit0o-dev/iaptivy)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![.NET Version](https://img.shields.io/badge/iOS-15+-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/druffko/iaptivy)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/miit0o-dev/iaptivy/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/miit0o-dev/iaptivy)
-  ![GitHub issues](https://img.shields.io/github/issues/miit0o-dev/iaptivy)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/iaptivy/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/iaptivy)
+  ![GitHub issues](https://img.shields.io/github/issues/druffko/iaptivy)
   
-  <h1>AptivyDroid</h1>
+  <h1>iAptivy</h1>
   <p>
-    iAptivy is a simple iOS Webview Template that can easily adjusted to your needs.
+    A very simple and basic iOS Webview App template
   </p>
 </div>
 
 ## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-1. [Requirements](#requirements)
-2. [Customization](#custom)
-5. [Contributing](#contributing)
-6. [Support](#support)
-7. [Creator](#creator)
+---
 
-<h2 align="center" id="requirements">Requirements</h2>
+## About
 
-All you need to build iAptivy is a Mac with Xcode and an iOS Device.
+iAptivy is a very basic and simple iOS Webview Template, that allows you to display any website as a native iOS app.
 
-**What you need**
+---
 
-* Latest iAptivy Source from the [release page](https://github.com/miit0o-dev/iaptivy/releases)
-* Xcode
+## Features
 
-<h2 align="center" id="custom">Customization</h2>
+- ✅ Any Website to App
+- ✅ Built with Xcode
+- ✅ Support for Wordpress
+- ✅ Easy to customize and edit
+- ✅ High performance
+- ✅ iOS 15+
+- ✅ No coding skills required
 
-### Download the Source Code
+---
 
-Download the latest source code by cloning or downloading the latest release. Then use [the docs](https://docs.miit0o.dev/documentation/iaptivy/) to customize your Application.
+## Usage
 
-<h2 align="center" id="contributing">Contributing</h2>
+### Getting started
+Download the latest source code release from the releases page, or clone the main branch. After extracting, open the project in Xcode.
 
-If there is anything that I missed, but should be in here, feel free to add it.
+### Customizing
+**Change App URL**
+In ViewController.swift change the following line:
 
-<h2 align="center" id="support">Support</h2>
+ViewController.swift
+```
+let webURL = URL(string:"https://github.com")
+```
 
-If you have discovered a 🐜 or have a feature suggestion, feel free to create an issue on Github.
+---
 
-### License
+## Contributing
 
-This project is lincensed under the GPL-3.0 License.
+Contributions are welcome! Please follow these steps:
 
-<h2 align="center" id="creator">Creator</h2>
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature-name`)
+5. Open a pull request
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://avatars0.githubusercontent.com/u/52698477?s=460">
-        <br>
-        <a href="https://github.com/miit0o">Christoph</a>
-        <p>Lead Developer</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Contact
+
+- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
+- **Project Link** - https://github.com/druffko/iaptivy
+
+Feel free to reach out if you have any questions or suggestions!
+
+---
