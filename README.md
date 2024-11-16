@@ -1,17 +1,15 @@
-![Repo-Image](https://druffko.gg/github-images/iaptivy.png)
-
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/iaptivy?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/iaptivy?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/iOS-15+-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/iaptivy)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/iaptivy)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/iaptivy/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/iaptivy)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/iaptivy)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/iaptivy/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/iaptivy)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/iaptivy)
   
   <h1>iAptivy</h1>
   <p>
@@ -83,8 +81,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/iaptivy
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/iaptivy
 
 Feel free to reach out if you have any questions or suggestions!
 
